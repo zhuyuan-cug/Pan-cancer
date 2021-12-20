@@ -1,4 +1,4 @@
-﻿Code for our paper "Identifying Pan-cancers related Genes based on Network Modeling Method"
+﻿Code for our paper "Identifying Pan-cancer Candidate Driver Genes via Integrative Network Analysis"
 
 
 ## Datasets
